@@ -1,16 +1,22 @@
-# conversor_de_moeda
+<h1 align="center">Conversor de Moedas</h1>
 
-A new Flutter project.
+#### Projeto em Flutter da disciplina de Programação Mobile
+#### Faculdade Senac Palhoça
+#### Prof: Alex
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Iniciando o projeto
 
-A few resources to get you started if this is your first Flutter project:
+Para iniciar o projeto, executar o ```main.dart```
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Necessário atualizar o valor do câmbio do dia no arquivo ```Controller.dart``` conforme abaixo:
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```
+  double real = 1;
+  double dolar = 4.96;
+  double euro = 5.24;
+  double bitcoin = 194121.70;
+  ```
+  
+  
+
