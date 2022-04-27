@@ -7,9 +7,7 @@
 
 ## Iniciando o projeto
 
-Para iniciar o projeto, executar o ```main.dart```
-
-Necessário atualizar o valor do câmbio do dia no arquivo ```Controller.dart``` conforme abaixo:
+Necessário atualizar o valor do câmbio do dia no arquivo ```lib/Controller.dart``` conforme abaixo:
 
 ```
   double real = 1;
